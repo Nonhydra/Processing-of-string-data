@@ -1,2 +1,0 @@
-+
-D:/Windows\system32+E:\Distrib\msoffice.exe+/home/alex/prog/lab4.c
